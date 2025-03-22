@@ -1,4 +1,4 @@
-# **Sensor Fusion for Autonomous Vehicles**
+# **ADAS system for Autonomous Vehicles*
 
 ## **1. Data Processing**
 The dataset used in this project is from the **KITTI dataset**, specifically the files:
@@ -93,5 +93,4 @@ def collision_check(objects, threshold_distance=10, threshold_speed=5):
 2. Mount Google Drive and set file paths.
 3. Run the script in a Jupyter Notebook or Colab.
 
-**Authors:** *Your Name*
 
